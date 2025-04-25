@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo explorar um conjunto de dados de vendas de jogos de videogame ao redor do mundo, identificando padrões, tendências e insights sobre o mercado global de games.
 
+![Grafico de evolucao de vendas](graficos/evolucao_vendas_globais.png)
+
 ## 📊 O que foi analisado
 
 - Os jogos mais vendidos globalmente.
